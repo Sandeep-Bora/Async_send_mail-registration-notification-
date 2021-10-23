@@ -130,6 +130,6 @@ STATIC_URL = '/static/'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER ='samueldak003@gmail.com'
-EMAIL_HOST_PASSWORD ='Moverick@20'
+EMAIL_HOST_USER ='email_id'
+EMAIL_HOST_PASSWORD ='email_password'
 #Enable access for less secure apps setting.
